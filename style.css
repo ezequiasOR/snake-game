@@ -1,0 +1,13 @@
+body{
+  height: 95vh;
+  width: 95vw;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+  background: rgb(174,238,199);
+  background: linear-gradient(270deg, rgba(174,238,199,1) 0%, rgba(148,233,148,1) 100%);
+  color: rgb(52, 165, 52);
+}
